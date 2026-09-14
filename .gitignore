@@ -1,0 +1,10 @@
+# Exclude files exceeding GitHub 100MB limit
+식품_일반음식점.csv
+식품_휴게음식점.csv
+학습 데이터-20260914T031806Z-1-001.zip
+학습 데이터*.zip
+
+# Python / Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
